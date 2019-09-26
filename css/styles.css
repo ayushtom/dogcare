@@ -59,9 +59,7 @@ background-color: #4f81c7;
 .dog
 {
  width: 90%;
- position: absolute;
  margin-top: 1%;
- margin-left: 50%;
  right: 10%;
  border-radius: 15%;
  border-color: #fff;
@@ -73,7 +71,7 @@ background-color: #4f81c7;
 #features
 {
   padding: 7% 15%;
-  position: relative;
+
 
   background-color: #fff;
 }
@@ -218,7 +216,7 @@ background-color: #4f81c7;
   {
     padding: 0;
     text-align: center;
-    position: static;
-    transform: rotate(0);
+    margin-left: 0;
+    /*transform: rotate(0);*/
   }
 }
